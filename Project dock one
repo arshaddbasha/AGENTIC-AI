@@ -1,0 +1,24 @@
+High-Level Architecture 
+
+The system can be divided into the following modules: 
+
+ 
+
+Resume Ingestion & Parsing 
+
+Job Description Parsing 
+
+Matching Engine 
+
+Email Automation 
+
+Interview Scheduling 
+
+ 
+
+
+ 
+
+ 
+
+ 
